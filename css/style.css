@@ -1,0 +1,90 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.lt-ie8 {
+  behavior: url(/css/boxsizing.htc);
+}
+
+body {
+  font: 16px Helvetica, sans-serif;
+  line-height: 1.5em;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+}
+
+a:hover {
+  border-bottom-style: solid;
+  color: black;
+}
+
+#wrapper {
+  margin: 50px auto 100px auto;
+  max-width: 800px;
+  padding: 0 50px;
+}
+
+#name {
+  border-bottom: 1px solid #CCC;
+  font-size: 42px;
+  line-height: 1em;
+  padding-bottom: 16px;
+}
+
+#contact-info dt {
+  float: left;
+  margin-right: 0.5em;
+}
+
+#intro {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+#main p {
+  margin: 0 0 1em 0;
+}
+
+#main section {
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+#main h1 {
+  border-bottom: 1px solid #CCC;
+  font-size: 18px;
+}
+
+#main dt {
+  font-weight: bold;
+}
+
+#main dd {
+  margin: 0 0 1em 0;
+}
+
+@media only screen and (min-width: 600px) {
+  #main section h1 {
+    border-bottom: none;
+    float: left;
+    margin: 0;
+    padding-right: 25px;
+    width: 25%;
+    text-align: right;
+    font-style: italic;
+  }
+
+  #main section .content {
+    border-left: 1px solid #CCC;
+    float: right;
+    padding-left: 25px;
+    width: 75%;
+  }
+}
