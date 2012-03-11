@@ -62,6 +62,10 @@ a:hover {
   font-size: 18px;
 }
 
+#main dl {
+  margin: 0;
+}
+
 #main dt {
   font-weight: bold;
 }
