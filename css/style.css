@@ -40,9 +40,22 @@ a:hover {
 }
 
 #contact-info dt {
+  display: block;
   float: left;
-  margin-right: 0.5em;
+  height: 24px;
+  text-indent: -99999px;
+  width: 16px;
 }
+
+#contact-info dd {
+  margin: 0 24px;
+}
+
+#contact-info #address  { background: url(../img/address.png)  center center no-repeat; }
+#contact-info #cell     { background: url(../img/cell.png)     center center no-repeat; }
+#contact-info #email    { background: url(../img/email.png)    center center no-repeat; }
+#contact-info #github   { background: url(../img/github.png)   center center no-repeat; }
+#contact-info #linkedin { background: url(../img/linkedin.png) center center no-repeat; }
 
 #intro {
   font-family: Georgia, serif;
