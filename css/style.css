@@ -33,7 +33,7 @@ a:hover {
 
 #name {
   border-bottom: 1px solid #CCC;
-  font-size: 42px;
+  font-size: 48px;
   line-height: 1em;
   padding-bottom: 16px;
 }
@@ -59,7 +59,7 @@ a:hover {
 
 #main h1 {
   border-bottom: 1px solid #CCC;
-  font-size: 18px;
+  font-size: 21px;
 }
 
 #main dl {
@@ -67,7 +67,9 @@ a:hover {
 }
 
 #main dt {
+  font-size: 18px;
   font-weight: bold;
+  margin-bottom: .5em;
 }
 
 #main dd {
