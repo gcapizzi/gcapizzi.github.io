@@ -25,6 +25,10 @@ a:hover {
   color: black;
 }
 
+q {
+  font-style: italic;
+}
+
 #wrapper {
   margin: 30px auto 50px auto;
   max-width: 700px;
