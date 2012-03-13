@@ -61,6 +61,7 @@ q {
 #contact-info #email    { background: url(../img/email.png)    center center no-repeat; }
 #contact-info #github   { background: url(../img/github.png)   center center no-repeat; }
 #contact-info #linkedin { background: url(../img/linkedin.png) center center no-repeat; }
+#contact-info #cv       { background: url(../img/cv.png)       center center no-repeat; }
 
 #intro {
   font-family: Georgia, serif;
