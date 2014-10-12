@@ -61,13 +61,8 @@ q {
 #main h1 {
   border-bottom: 1px solid #CCC;
   font-size: 21px;
-  padding: 0 0 6px 32px;
+  padding-bottom: 0.5rem;
 }
-
-#istruzione h1 { background: url(../img/istruzione.png) top left no-repeat; }
-#esperienza h1 { background: url(../img/esperienza.png) top left no-repeat; }
-#competenze h1 { background: url(../img/competenze.png) top left no-repeat; }
-#lingue     h1 { background: url(../img/lingue.png)     top left no-repeat; }
 
 #main dl {
   margin: 0;
