@@ -16,7 +16,7 @@ html {
 body {
   font: 16px Helvetica, sans-serif;
   line-height: 1.5em;
-  padding: 2rem;
+  padding: 2em;
 }
 
 a {
@@ -61,7 +61,7 @@ q {
 #main h1 {
   border-bottom: 1px solid #CCC;
   font-size: 21px;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.5em;
 }
 
 #main dl {
