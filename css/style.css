@@ -9,6 +9,13 @@
   behavior: url(/css/boxsizing.htc);
 }
 
+.browserupgrade {
+  margin: 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.5em;
+}
+
 body {
   font: 16px Helvetica, sans-serif;
   line-height: 1.5em;
