@@ -30,10 +30,6 @@ a:hover {
   color: black;
 }
 
-q {
-  font-style: italic;
-}
-
 #name {
   border-bottom: 1px solid #CCC;
   display: block;
