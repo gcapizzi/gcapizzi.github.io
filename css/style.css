@@ -40,6 +40,10 @@ a:hover {
   width: 100%;
 }
 
+#contact-info {
+  color: #666;
+}
+
 #main p {
   margin: 0 0 1em 0;
 }
