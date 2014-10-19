@@ -55,18 +55,10 @@ a:hover {
   padding-bottom: 0.5em;
 }
 
-#main dl {
-  margin: 0;
-}
-
-#main dt {
+#main h3 {
   font-size: 1.125em;
   font-weight: bold;
   margin-bottom: .5em;
-}
-
-#main dd {
-  margin: 0 0 1em 0;
 }
 
 @media print {
