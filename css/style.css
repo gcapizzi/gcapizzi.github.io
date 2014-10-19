@@ -68,3 +68,24 @@ a:hover {
 #main dd {
   margin: 0 0 1em 0;
 }
+
+@media print {
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+  }
+
+  a {
+    border: none;
+  }
+
+  a.printable[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+}
