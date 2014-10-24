@@ -80,4 +80,8 @@ a:hover {
   h1, h2, h3 {
     page-break-after: avoid;
   }
+
+  .page-break {
+    page-break-before: always;
+  }
 }
