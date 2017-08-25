@@ -17,6 +17,8 @@ body {
   font: 16px Helvetica, sans-serif;
   line-height: 1.5em;
   padding: 2em;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 a {
