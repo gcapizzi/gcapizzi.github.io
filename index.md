@@ -32,8 +32,7 @@ After the aquisition of Pivotal by [VMware](https://www.vmware.com) (now part of
 #### Cloud Foundry on Kubernetes
 
 I was the [Execution Lead](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) for the the [Cloud Foundry on Kubernetes Working Group](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/cf-on-k8s.md), focused on porting Cloud Foundry to the Kubernetes platform.
-I was responsible for the team's priorities and technical direction on projects like [**Eirini**](https://github.com/cloudfoundry/eirini) and [**Korifi**](https://github.com/cloudfoundry/korifi).
-The former is a complete rewrite of the Cloud Foundry API on top of Kubernetes.
+I was responsible for the team's priorities and technical direction on projects like [**Eirini**](https://github.com/cloudfoundry/eirini) and [**Korifi**](https://github.com/cloudfoundry/korifi), a complete rewrite of the Cloud Foundry API on top of Kubernetes.
 
 #### Services Toolkit
 
