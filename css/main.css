@@ -46,6 +46,11 @@ h3 {
   font-weight: bold;
 }
 
+h4 {
+  color: #444;
+  margin: 0 0 -1rem 0;
+}
+
 .subtitle {
   color: #666;
   display: block;

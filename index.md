@@ -25,46 +25,51 @@ I have spent the last 7 years working on Platform-as-a-Service products, learnin
 ### VMware
 <span class="subtitle">Staff Engineer 1 ⬩ London, United Kingdom ⬩ April 2020–March 2024</span>
 
-After the aquisition of Pivotal by [VMware](https://www.vmware.com), I joined [VMware Tanzu](https://tanzu.vmware.com/tanzu) to continue my work on R&amp;D in the Cloud Foundry space. 
-In particular, I focused on the efforts to port Cloud Foundry to the Kubernetes platform.
+After the aquisition of Pivotal by [VMware](https://www.vmware.com) (now part of [Broadcom](https://www.broadcom.com/)), I joined [VMware Tanzu](https://tanzu.vmware.com) to continue my work in R&D.
 
-I started on [**Eirini**](https://www.cloudfoundry.org/project-eirini/), an experimental adapter which allowed to integrate Kubernetes as the Cloud Foundry container orchestrator.
-As the project technical product manager, I took care of the team's priorities and technical direction.
+#### Cloud Foundry on Kubernetes
 
-Eirini later merged into the [**Korifi**](https://github.com/cloudfoundry/korifi) project, a complete rewrite of the Cloud Foundry API on top of Kubernetes, developed by the [Cloud Foundry on Kubernetes Working Group](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/cf-on-k8s.md).
-I am currently the [Execution Lead](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) for the working group, responsible for the working group's feature tracks: tracking, health, and execution.
+I was the [Execution Lead](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) for the the [Cloud Foundry on Kubernetes Working Group](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/cf-on-k8s.md), focused on porting Cloud Foundry to the Kubernetes platform.
+I was responsible for the team's priorities and technical direction on projects like [**Eirini**](https://github.com/cloudfoundry/eirini) and [**Korifi**](https://github.com/cloudfoundry/korifi).
+The former is a complete rewrite of the Cloud Foundry API on top of Kubernetes.
+
+#### Services Toolkit
+
+[Services Toolkit](https://docs.vmware.com/en/Services-Toolkit-for-VMware-Tanzu-Application-Platform/0.9/svc-tlk/overview.html) is a framework that enables users to manage their data services on [Tanzu Application Platform](https://tanzu.vmware.com/application-platform), VMware's Kubernetes distribution.
+I implemented out-of-the-box support for PostgreSQL, MySQL and RabbitMQ on [Amazon Web Services](https://aws.amazon.com).
 
 ### Pivotal
 <span class="subtitle">Staff Software Engineer ⬩ London, United Kingdom ⬩ March 2015–April 2020</span>
 
-[Pivotal](https://pivotal.io) (now part of [VMware](https://www.vmware.com)) helped enterprises to transform the way they build software to be more lean and agile.
+[Pivotal](https://pivotal.io) helped enterprises to transform the way they build software to be more lean and agile.
 To do this, they offered both a renowned agile consultancy service, _Pivotal Labs_, and a multi-cloud platform as a service, _Pivotal Application Service_, based on Cloud Foundry.
 I had the opportunity to work on both.
 
-As a **Pivotal Labs** engineer, I helped both startups and big enterprises to build digital products using a lean and agile process, from the inception to the deployment in production.
+During my whole time at Pivotal, I was heavily involved in the recruiting process, interviewing dozens of engineers for a range of engineering roles.
+
+#### Pivotal Labs
+
+I helped both startups and big enterprises to build digital products using a **lean and agile process**, from the inception to the deployment in production.
 All our teams included product managers, designers and engineers, and all our projects started with a phase of discovery and research.
-On the engineering side, we practiced extreme programming, focusing on pair programming, test-driven development and continuous integration.
+On the engineering side, we practiced **extreme programming**, focusing on pair programming, test-driven development and continuous integration.
 I was a tech lead in two occasions, on teams of 4 and 8 people respectively.
 
-Switching gears to R&amp;D, I worked on **Pivotal Application Service**, Pivotal's distribution of the Cloud Foundry platform as a service.
-Most of my time was spent on [Garden](https://github.com/cloudfoundry/garden-runc-release), the Cloud Foundry container runtime.
-This allowed me to acquire a deep knowledge of how Linux containers work.
+#### Pivotal Application Service
 
-During my whole time at Pivotal, I was heavily involved in the recruiting process, interviewing dozens of engineers for a range of engineering roles.
+I spent most of my time on [**Garden**](https://github.com/cloudfoundry/garden-runc-release), the Cloud Foundry container runtime.
+This allowed me to acquire a deep knowledge of how **Linux containers** work.
 
 ### XPeppers
 <span class="subtitle">Software Developer ⬩ Milan, Italy ⬩ October 2012–February 2015</span>
 
-[XPeppers](https://xpeppers.com), now part of the [Claranet Group](https://www.claranet.com), is a software consultancy focused on agile methodologies, extreme programming and DevOps.
-I've spent most of my time there working on [Onebip](https://onebip.com), a global mobile payment platform with over 5 billion users in 70 countries, where I was in charge of developing and maintaining one of the crucial components of their service-oriented architecture, built on PHP and MongoDB.
-I also developed a specialized Rails-based CMS which allows to quickly build digital content selling websites that use Onebip as their payment provider.
+XPeppers (now part of the [Claranet Group](https://www.claranet.com)) was a software consultancy focused on agile methodologies, extreme programming and DevOps.
+I worked with various clients using the PHP and Ruby/Rails stacks.
 
 ### Facile.it
 <span class="subtitle">Software Developer ⬩ Milan, Italy ⬩ April 2012–October 2012</span>
 
-[Facile.it](https://facile.it) the Italian leader price comparison website, covering everything from insurance policies to phone rates.
-I've developed their internal business metrics panel, a key component to the business' decision making process, which collects data from different sources, including Google Analytics and reports from insurance companies.
-I've also worked on the mobile versions of the mortgages and loans comparators.
+[Facile.it](https://facile.it) is the Italian leader price comparison website, covering everything from insurance policies to phone rates.
+I worked mostly on internal tools, built on the LAMP stack.
 
 ## Education
 
