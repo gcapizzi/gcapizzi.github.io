@@ -46,7 +46,7 @@ I implemented out-of-the-box support for PostgreSQL, MySQL and RabbitMQ on [Amaz
 To do this, they offered both a renowned agile consultancy service, _Pivotal Labs_, and a multi-cloud platform as a service, _Pivotal Application Service_, based on [Cloud Foundry](https://www.cloudfoundry.org).
 I had the opportunity to work on both.
 
-During my whole time at Pivotal, I was heavily involved in the recruiting process, interviewing dozens of engineers for a range of engineering roles.
+During my whole time at Pivotal, I was also heavily involved in the recruiting process, interviewing dozens of engineers for a range of engineering roles.
 
 #### Pivotal Labs
 
