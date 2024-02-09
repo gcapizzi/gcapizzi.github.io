@@ -9,17 +9,16 @@
 **Email**: [g.capizzi@gmail.com](mailto:g.capizzi@gmail.com)\
 **GitHub**: [github.com/gcapizzi](https://github.com/gcapizzi)
 
-I'm a software engineer focused on sustainable software development: growing high quality, maintainable, well tested software is what I do best.
+I'm a software engineer based in London, UK.
+I am focused on **sustainable software development**: growing high quality, maintainable, well tested software is what I do best.
 I have a solid grasp of software design principles and test driven development is an invaluable tool in my daily practice.
 
-My experience in consulting has taught me what high performing, agile teams look like and how to be an effective coach and mentor.
+My experience in consulting has taught me what **high performing, agile teams** look like and how to be an effective **coach and mentor**.
 I've worked with enterprise teams to upskill them, to improve their development processes, and to recruit new team members.
 As a member of the [Codebar](https://codebar.io) community, I've spent hundreds of hours coaching people from underrepresented backgrounds.
 
-Go is my main language these days, but I never stop exploring: I've worked with Java, Ruby, Python, PHP, and played with C, JavaScript, Clojure, Haskell, Scala, Kotlin, Rust, and more.
-I am also interested in programming language theory.
-
-I have spent the last 3 years working on [Cloud Foundry](https://www.cloudfoundry.org), an open source platform as a service, and learning a lot about the cloud native ecosystem in the process.
+**Go** is my main language these days, but I never stop exploring: I've worked with Java, Ruby, Python, PHP, and played with C, JavaScript, Clojure, Haskell, Scala, Kotlin, Rust, and more.
+I have spent the last 7 years working on Platform-as-a-Service products, learning a lot about [**containers**](https://github.com/gcapizzi/containers-study-path) and **Kubernetes**.
 
 ## Experience
 
