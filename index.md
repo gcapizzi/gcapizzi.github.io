@@ -23,7 +23,7 @@ I have spent the last 7 years working on Platform-as-a-Service products, learnin
 ## Experience
 
 ### VMware
-<span class="subtitle">Staff Engineer 1 ⬩ Milan, Italy ⬩ April 2020–current</span>
+<span class="subtitle">Staff Engineer 1 ⬩ London, United Kingdom ⬩ April 2020–March 2024</span>
 
 After the aquisition of Pivotal by [VMware](https://www.vmware.com), I joined [VMware Tanzu](https://tanzu.vmware.com/tanzu) to continue my work on R&amp;D in the Cloud Foundry space. 
 In particular, I focused on the efforts to port Cloud Foundry to the Kubernetes platform.
