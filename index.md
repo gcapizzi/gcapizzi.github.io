@@ -1,5 +1,6 @@
 <head>
   <title>Giuseppe Capizzi</title>
+  <meta charset="utf-8">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 </head>
