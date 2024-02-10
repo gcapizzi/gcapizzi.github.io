@@ -33,6 +33,7 @@ After the aquisition of Pivotal by [VMware](https://www.vmware.com) (now part of
 
 I was the [Execution Lead](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) for the the [Cloud Foundry on Kubernetes Working Group](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/cf-on-k8s.md), focused on porting Cloud Foundry to the Kubernetes platform.
 I was responsible for the team's priorities and technical direction on projects like [**Eirini**](https://github.com/cloudfoundry/eirini) and [**Korifi**](https://github.com/cloudfoundry/korifi), a complete rewrite of the Cloud Foundry API on top of Kubernetes.
+We achieved a [remarkable level of compatibility](https://github.com/cloudfoundry/korifi/blob/v0.10.0/docs/api.md) with Cloud Foundry and made Korifi a viable solution for Cloud Foundry users who wish to move to Kubernetes.
 
 #### Services Toolkit
 
@@ -58,7 +59,7 @@ I was a tech lead in two occasions, on teams of 4 and 8 people respectively.
 #### Pivotal Application Service
 
 I spent most of my time on [**Garden**](https://github.com/cloudfoundry/garden-runc-release), the Cloud Foundry container runtime.
-This allowed me to acquire a deep knowledge of how **Linux containers** work.
+I led a refactoring that made it possible to use [containerd](https://containerd.io) as the containerisation backend.
 
 ### XPeppers
 <span class="subtitle">Software Developer ⬩ Milan, Italy ⬩ October 2012–February 2015</span>
