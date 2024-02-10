@@ -11,7 +11,7 @@
 **Email**: [g.capizzi@gmail.com](mailto:g.capizzi@gmail.com)\
 **GitHub**: [github.com/gcapizzi](https://github.com/gcapizzi)
 
-I'm a software engineer based in London, UK.
+I'm a staff software engineer based in London, UK.
 I am focused on **sustainable software development**: growing high quality, maintainable, well tested software is what I do best.
 I have a solid grasp of software design principles and test driven development is an invaluable tool in my daily practice.
 
