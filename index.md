@@ -20,10 +20,15 @@ My experience in consulting has taught me what **high performing, agile teams** 
 I've worked with enterprise teams to upskill them, to improve their development processes, and to recruit new team members.
 As a member of the [Codebar](https://codebar.io) community, I've spent hundreds of hours coaching people from underrepresented backgrounds.
 
-**Go** is my main language these days, but I never stop exploring: I've worked with Java, Ruby, Python, PHP, and played with C, JavaScript, Clojure, Haskell, Scala, Kotlin, Rust, and more.
-I have spent the last 7 years working on Platform-as-a-Service products, learning a lot about [**containers**](https://github.com/gcapizzi/containers-study-path) and **Kubernetes**.
+I am a polyglot developer: over the course of my career I've worked with Go, Java, Ruby, Python, PHP, and played with C, JavaScript, Clojure, Haskell, Scala, Kotlin, Rust, and more.
+I spent many years working on Platform-as-a-Service products, learning a lot about [**containers**](https://github.com/gcapizzi/containers-study-path) and **Kubernetes**.
 
 ## Experience
+
+### GitHub
+<span class="subtitle">Staff Softwar Engineer ⬩ London, United Kingdom ⬩ May 2025–present</span>
+
+I am currently part of the _Issues Platform_ team, leading initiatives focused on improving the quality and modularity of our codebase.
 
 ### VMware
 <span class="subtitle">Staff Engineer 1 ⬩ London, United Kingdom ⬩ April 2020–March 2024</span>
